@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import Movie from "./components/Movie";
+import Movie from "./Movie";
 import "./App.css";
 
 function App() {
